@@ -1,0 +1,17 @@
+Report 1 – 27/11/2017
+
+Ali
+---
+I have delivered 2 knowledge sharing session: “Agile development with Scrum” and “GitHub for team work”. I have set up my PC with tools and configuration to compile and run the projects. I have made recordings of the full step-by-step to achieve that as many faced issues on this part. Also, I have started ramping up on Qt GUI apps and PCL.
+
+Basel
+-----
+
+
+Fahad
+-----
+
+
+Henry
+-----
+
