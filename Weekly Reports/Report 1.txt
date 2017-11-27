@@ -6,6 +6,10 @@ I have delivered 2 knowledge sharing session: “Agile development with Scrum” and
 
 Basel
 -----
+1-	Read the 3D-korn report quickly.
+2-	Compiled and run this project (3D-korn) successfully.
+3-	Read the paper (“Least-Squares Rigid Motion Using SVD By Olga Sorkine-Hornung and Michael Rabinovich”)
+
 
 
 Fahad
