@@ -63,10 +63,10 @@ I set up my PC with tools and configuration to start with the project. I also st
 
 ### Basel
 
-	1- I have read about Point Cloud Library (PCL) using the article ("A Survey of Rigid 3D Pointcloud Registration Algorithms
-		Ben Bellekens, Vincent Spruyt, Rafael Berkvens, and Maarten Weyn") and the documentation on PCL website.
+- I have read about Point Cloud Library (PCL) using the article ("A Survey of Rigid 3D Pointcloud Registration Algorithms
+	Ben Bellekens, Vincent Spruyt, Rafael Berkvens, and Maarten Weyn") and the documentation on PCL website.
 		
-	2- I am going to prepare some code to show to strengthen the knowledge about PCL next team meeting .
+- I am going to prepare some code to show to strengthen the knowledge about PCL next team meeting .
 
 
 
