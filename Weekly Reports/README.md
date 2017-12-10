@@ -12,22 +12,21 @@
 ### Basel
 
 - Read the 3D-korn report quickly.
--	Compiled and run this project (3D-korn) successfully.
--	Read the paper (“Least-Squares Rigid Motion Using SVD By Olga Sorkine-Hornung and Michael Rabinovich”)
+- Compiled and run this project (3D-korn) successfully.
+- Read the paper (“Least-Squares Rigid Motion Using SVD By Olga Sorkine-Hornung and Michael Rabinovich”)
 
 ### Fahad
 
 This is my first report for the project so far.i will brie
 y discuss all the work
 done in the past few weeks and the future work i aim to do.
-
- Introduction: Our first task was to read and try to understand all the four projects individually,
+Introduction: Our first task was to read and try to understand all the four projects individually,
 i managed to retrieve all of them from the git hub depositories.Further more i
 went through them trying to understand what was going on. It was quite tough
 to run them all since they required specific libraries and i do not have a very
 strong programming background but still with the help of my team mate Basel
 i managed to.
- Previous weeks: We started by joining a project management website named taiga to manage
+Previous weeks: We started by joining a project management website named taiga to manage
 our work better and keep a check on where we stand after every week, we also
 asked professor Yohan to be included so that he could view our progress.
 Using this website we were able to create weekly task and at the end of each
@@ -42,7 +41,7 @@ even if one of the memeber was away due to any reason.
  For next week: For the coming week we will try to test the hardware with our project,to
 see the process of data acquisition and propse and way on improving the
 process either software or hardware.
- Conclusion: In our next group meeting i will purpose to break up the tasks so that each indi-
+Conclusion: In our next group meeting i will purpose to break up the tasks so that each indi-
 vidual memeber has something di
 erent to work on and more work is achieved
 this way.
@@ -64,9 +63,7 @@ this way.
 
 ### Basel
 
-- I have read about Point Cloud Library (PCL) using the article ("A Survey of Rigid 3D Pointcloud Registration Algorithms
-	Ben Bellekens, Vincent Spruyt, Rafael Berkvens, and Maarten Weyn") and the documentation on PCL website.
-		
+- I have read about Point Cloud Library (PCL) using the article ("A Survey of Rigid 3D Pointcloud Registration Algorithms. Ben Bellekens, Vincent Spruyt, Rafael Berkvens, and Maarten Weyn") and the documentation on PCL website.	
 - I am going to prepare some code to show to strengthen the knowledge about PCL next team meeting .
 
 
@@ -79,6 +76,29 @@ this way.
 ### Henry
 
 - I researched on Flann and Boost libraries. I will prepare a demo code to explain better to my team.
+
+---
+
+# Report 3 – 11/12/2017
+
+### Ali
+
+- I have started looking at camera calibration using OpenCV.
+
+
+### Basel
+
+*edit here*
+
+
+### Fahad
+
+*edit here*
+
+
+### Henry
+
+*edit here*
 
 ---
 
@@ -105,4 +125,3 @@ this way.
 
 *edit here*
 
----
