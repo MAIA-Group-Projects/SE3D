@@ -1,4 +1,4 @@
-*Note: For a formal and combined report, consider the PDF file.*
+﻿*Note: For a formal and combined report, consider the PDF file.*
 
 # Report 1 – 27/11/2017
 
@@ -43,12 +43,13 @@ even if one of the memeber was away due to any reason.
 see the process of data acquisition and propse and way on improving the
 process either software or hardware.
  Conclusion: In our next group meeting i will purpose to break up the tasks so that each indi-
-vidual memeber has something dierent to work on and more work is achieved
+vidual memeber has something di
+erent to work on and more work is achieved
 this way.
 
 ### Henry
 
-I set up my PC with tools and configuration to start with the project. I also studied a report of last project.
+- I set up my PC with tools and configuration to start with the project. I also studied a report of last project.
 
 ---
 
@@ -77,7 +78,7 @@ I set up my PC with tools and configuration to start with the project. I also st
 
 ### Henry
 
-*edit here*
+- I researched on Flann and Boost libraries. I will prepare a demo code to explain better to my team.
 
 ---
 
