@@ -104,6 +104,31 @@ this way.
 
 *Keep this untouched to serve as template for next reports*
 
+# Report 4 – 18/12/2017
+
+### Ali
+
+- I am still on calibration with OpenCV. The progress has been slow on my side as the past week was busy with assignments and revision for the exams.
+
+
+### Basel
+
+*edit here*
+
+
+### Fahad
+
+*edit here*
+
+
+### Henry
+
+*edit here*
+
+---
+
+*Keep this untouched to serve as template for next reports*
+
 # Report ? – ?/?/?
 
 ### Ali
