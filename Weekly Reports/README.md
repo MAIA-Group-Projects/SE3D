@@ -102,13 +102,34 @@ this way.
 
 ---
 
-*Keep this untouched to serve as template for next reports*
-
 # Report 4 – 18/12/2017
 
 ### Ali
 
 - I am still on calibration with OpenCV. The progress has been slow on my side as the past week was busy with assignments and revision for the exams.
+
+
+### Basel
+
+*edit here*
+
+
+### Fahad
+
+*edit here*
+
+
+### Henry
+
+*edit here*
+
+---
+
+# Report 5 – 24/12/2017
+
+### Ali
+
+- After some struggle, I have managed to compile and build OpenCV 3 with contrib modules (to enable extra features like feature detection). I am now testing the feature detection module.
 
 
 ### Basel
@@ -149,4 +170,5 @@ this way.
 ### Henry
 
 *edit here*
+
 
