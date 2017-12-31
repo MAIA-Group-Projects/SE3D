@@ -125,7 +125,7 @@ this way.
 
 ---
 
-# Report 5 – 24/12/2017
+# Report 5 – 25/12/2017
 
 ### Ali
 
@@ -148,13 +148,11 @@ this way.
 
 ---
 
-*Keep this untouched to serve as template for next reports*
-
-# Report ? – ?/?/?
+# Report 6 – 01/01/2018
 
 ### Ali
 
-*edit here*
+- As there were some difficulties to pick up the PCL library by other team members (while I set my focus on opencv) I had to spend some time to ramp up on PCL as well as acquiring data with the kinect.
 
 
 ### Basel
