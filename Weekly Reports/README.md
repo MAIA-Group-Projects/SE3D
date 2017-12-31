@@ -152,7 +152,7 @@ this way.
 
 ### Ali
 
-- As there was some difficulties to pick up the PCL library by other team members (while I set my focus on opencv) I had to spend some time to ramp up on PCL as well as acquiring data with the kinect.
+- As there were some difficulties to pick up the PCL library by other team members (while I set my focus on opencv) I had to spend some time to ramp up on PCL as well as acquiring data with the kinect.
 
 
 ### Basel
